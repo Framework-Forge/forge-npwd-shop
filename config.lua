@@ -1,4 +1,5 @@
 Config = {}
+Config.VersionCheck = true
 
 Config.Command = 'forgephoneshop'
 Config.PaymentAccounts = { 'cash', 'bank' }
